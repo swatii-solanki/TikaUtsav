@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TikaUtsav</string>
+    <string name="total_doses">Total Doses</string>
+    <string name="fully_vaccinated">Fully Vaccinated</string>
+    <string name="splash_heading_1">अपने परिवार और दोस्तों की सुरक्षा कर सकते हैं और हमारे \nदेश को COVID-19 से लड़ने में मदद कर सकते हैं।</string>
+    <string name="splash_heading_2">हम सुरक्षित, तो भारत सुरक्षित ।</string>
+    <string name="city_name">आपके शहर का नाम</string>
+    <string name="your_name">आपका पूरा नाम</string>
+    <string name="capture_image">फोटो क्लिक करे</string>
+    <string name="txt_write_external_storage">Write External Storage</string>
+    <string name="txt_read_external_storage">Read External Storage</string>
+    <string name="txt_camera">Camera</string>
+    <string name="covid_photo">आपका कोविड -19 वैक्सीन फोटो</string>
+    <string name="thank_you">धन्यवाद, अपनी टीकाकरण की फोटो शेयर करे या सबको ज्यादा से ज्यादा टीकाकरण के लिए पूर्वित करे</string>
+    <string name="got_it">मुझे अपना कोविड -19 वैक्सीन मिल गया है</string>
+    <string name="get_it">आप भी अपना कोविड -19 वैक्सीन लगवे</string>
+    <string name="share_whatsapp">व्हाट्सएप पे शेयर करे</string>
+    <string name="save_photo">फोन में फोटो सेव करें</string>
+    <string name="crop">Crop</string>
+    <string name="whtsapp_error">व्हाट्सएप इंस्टॉल नहीं किया गया है।</string>
+    <string name="saved">फ़ोटो सफलतापूर्वक सहेजा गया</string>
+    <string name="permission"><![CDATA[Please grant permission of camera & storage]]></string>
+
+</resources>
