@@ -5,6 +5,7 @@
 
 - Data Binding - This is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically.
 
+- Firebase Firestore - Firestore is a flexible, scalable database for mobile,it keeps data in sync across client apps through realtime listeners and offers offline support for mobile. you can build responsive apps that work regardless of network latency or Internet connectivity. learn more at https://firebase.google.com/docs/firestore
 
 ## Screens
 
