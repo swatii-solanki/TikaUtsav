@@ -3,6 +3,7 @@ plugins {
     id 'kotlin-android'
     id 'kotlin-android-extensions'
     id 'kotlin-kapt'
+    id 'com.google.gms.google-services'
 }
 
 android {
@@ -58,5 +59,9 @@ dependencies {
 
     // Image picker
     implementation 'com.zhihu.android:matisse:0.5.3-beta3'
+
+    implementation platform('com.google.firebase:firebase-bom:28.0.1')
+
+    implementation 'com.google.firebase:firebase-firestore-ktx'
 
 }

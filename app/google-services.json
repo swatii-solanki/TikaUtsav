@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "794789078571",
+    "project_id": "tikautsav-7ebdb",
+    "storage_bucket": "tikautsav-7ebdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:794789078571:android:61d0c924703507b77fac6e",
+        "android_client_info": {
+          "package_name": "com.ebabu.tikautsav"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "794789078571-sf57lff7tnpb6jhdcqjiq1fnlaqnvgvh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ebabu.tikautsav",
+            "certificate_hash": "73a0b5c08c5dae286b491e8ccedb85708343de33"
+          }
+        },
+        {
+          "client_id": "794789078571-sbc8k26gob85ia9qnqkse9dkiu4n26q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw-ajQ6znnRoHlFTIFpESEud3tG3U5yOk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "794789078571-sbc8k26gob85ia9qnqkse9dkiu4n26q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
